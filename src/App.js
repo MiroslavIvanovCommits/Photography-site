@@ -3,6 +3,8 @@ import { Routes, Route } from "react-router-dom";
 import Header from "./components/Header.js";
 import Footer from "./components/Footer.js";
 import Dashboard from "./components/Dashboard.js";
+import Gallery from "./components/Gallery.js";
+import About from "./components/About.js";
 
 function App() {
   return (
@@ -14,6 +16,8 @@ function App() {
 
         <Routes>
           <Route path="/" element={<Dashboard />} />
+          <Route path="/gallery" element={<Gallery />} />
+          <Route path="/about" element={<About />} />
         </Routes>
 
       </main>
