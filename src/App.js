@@ -18,6 +18,7 @@ function App() {
           <Route path="/" element={<Dashboard />} />
           <Route path="/gallery" element={<Gallery />} />
           <Route path="/about" element={<About />} />
+          <Route path='*' element={<Dashboard />} />
         </Routes>
 
       </main>
