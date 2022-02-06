@@ -25,17 +25,17 @@ const Dashboard = () => {
                 </div>
                 <img src="https://images.pexels.com/photos/132037/pexels-photo-132037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" alt="" />
                 <div className="caption">
-                    <h3>Photo Three</h3>
+                    <h3>Photo Two</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, tenetur.</p>
                 </div>
                 <img src="https://images.pexels.com/photos/1128797/pexels-photo-1128797.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" alt="" />
                 <div className="caption">
-                    <h3>Photo Four</h3>
+                    <h3>Photo Three</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, tenetur.</p>
                 </div>
                 <img src="https://images.pexels.com/photos/247599/pexels-photo-247599.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" alt="" />
                 <div className="caption">
-                    <h3>Photo Two</h3>
+                    <h3>Photo Four</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, tenetur.</p>
                 </div>
                 <img src="https://images.pexels.com/photos/258109/pexels-photo-258109.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" alt="" />
