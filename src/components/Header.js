@@ -1,19 +1,20 @@
+import { Link } from "react-router-dom";
+
 const Header = () => {
     return (
-        <nav class="navbar">
-            <div class="brand-title">Brand Name</div>
-            <a href="#" class="toggle-button">
-                <span class="bar"></span>
-                <span class="bar"></span>
-                <span class="bar"></span>
-            </a>
-            <div class="navbar-links">
-                <ul>
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">About</a></li>
-                    <li><a href="#">Contact</a></li>
-                </ul>
+        <nav>
+            <div className="logo">
+                Ivan Photography
             </div>
+            <input type="checkbox" id="click" />
+                <label htmlFor="click" className="menu-btn">
+                    <i className="fas fa-bars"></i>
+                </label>
+                <ul>
+                    <li><Link to="/">Home</Link></li>
+                    <li><Link to="/gallery">Gallery</Link></li>
+                    <li><Link to="/about">About</Link></li>
+                </ul>
         </nav>
     );
 };
