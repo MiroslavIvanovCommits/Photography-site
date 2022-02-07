@@ -47,6 +47,6 @@ Made following the mobile-first approach.
   - [OwlCarousel2](https://owlcarousel2.github.io/OwlCarousel2/)
   - [JQuery](https://jquery.com/)
   - [Stock images from Pexels.com](https://www.pexels.com)
-  - [HTML, CSS and JS templates from variouse websites]()
+  - [HTML, CSS and JS templates from various websites]()
 
 
