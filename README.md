@@ -49,4 +49,6 @@ Made following the mobile-first approach.
   - [Stock images from Pexels.com](https://www.pexels.com)
   - [HTML, CSS and JS templates from various websites]()
 
+#### :construction_worker: Instructions for developers
+Unzip the files, open them with VS Code and type in the integrated terminal npm i(to install the required packages) and then npm start(to open the web page in browser).
 
