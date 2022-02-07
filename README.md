@@ -6,6 +6,11 @@ Link to the site ➜ [Photography site](https://photography-site-five.vercel.app
 A simple web page for showcasing photography work.
 Made following the mobile-first approach.
 
+
+[KNOWN BUGS]
+
+The carousel in Gallery page doesn't work, until the page is manually refreshed/reloaded.
+
 ### :scroll: Application has the following pages:
 - **`Home page(/)`**
 - **`Gallery page(/gallery)`** with carousel of images(needs page reload in order to work!)
@@ -44,6 +49,4 @@ Made following the mobile-first approach.
   - [Stock images from Pexels.com](https://www.pexels.com)
   - [HTML, CSS and JS templates from variouse websites]()
 
-[KNOWN BUGS]
 
-The carousel in Gallery page doesn't work, until the page is manually refreshed/reloaded.
