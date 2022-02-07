@@ -191,7 +191,7 @@ nav {
 
 nav .logo {
   color: #fff;
-  font-size: 22px;
+  font-size: 32px;
   font-weight: 600;
 }
 
@@ -244,6 +244,9 @@ input[type="checkbox"] {
 }
 
 @media (max-width: 920px) {
+  nav .logo {
+    font-size: 22px;
+  }
   nav .menu-btn i {
     display: block;
   }
