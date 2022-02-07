@@ -7,9 +7,9 @@ A simple web page for showcasing photography work.
 Made following the mobile-first approach.
 
 
-[KNOWN BUGS]
+:beetle: [KNOWN BUGS]
 
-The carousel in Gallery page doesn't work, until the page is manually refreshed/reloaded.
+:warning: The carousel in Gallery page doesn't work, until the page is manually refreshed/reloaded.
 
 ### :scroll: Application has the following pages:
 - **`Home page(/)`**
